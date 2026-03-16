@@ -12,7 +12,6 @@ on:
           - oneplus_nord_ce4_v
           - oneplus_nord_4_v
           - oneplus_ace_3v_v
-          - oneplus_9_v
           - oneplus_10_pro_v
           - oneplus_10t_v
           - oneplus_11r_v
@@ -119,7 +118,6 @@ jobs:
             ["oneplus_nord_ce4"]="android14 5.15"
             ["oneplus_nord_4"]="android14 6.1"
             ["oneplus_ace_3v"]="android14 6.1"
-            ["oneplus_9"]="android12 5.4"
             ["oneplus_10_pro"]="android12 5.10"
             ["oneplus_10t"]="android12 5.10"
             ["oneplus_11r"]="android12 5.10"
